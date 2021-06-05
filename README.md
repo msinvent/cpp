@@ -45,4 +45,4 @@ TODO add STL data containers complexity and use cases.
 
 ## General Algorithmic concepts
 
-1. [Graph](../cpp/data_structures/graph.md)
+1. [Graph](./data_structures/graph.md)
