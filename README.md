@@ -12,7 +12,11 @@ Keep them in sorted order by time of publication and then Name of the author.
 
 [CppCon 2019: Michael Price “A Critical Look at the Coding Standards Landscape”](./video_notes/2019_MP_A_Critical_Look_Coding_Standards.md)
 
-[CppCon 2019: Mathieu Ropert "This Videogame Programmer Used the STL and You Will Never Guess What Happened Next"](../cpp/video_notes/2019_Mathieu_Ropert_This_Videogame_Programmer_Used_the_STL.md)
+[CppCon 2019: Mathieu Ropert "This Videogame Programmer Used the STL and You Will Never Guess What Happened Next"](./video_notes/2019_Mathieu_Ropert_This_Videogame_Programmer_Used_the_STL.md)
+
+[CppCon 2019: Ben Saks "Back To Basics Understanding Value Categories"](./video_notes/2019_Ben_Saks_BTB_Understanding_Value_Categories.md)
+
+[CppCon 2019: Klaus "Back To Basics Move Symantics"](./video_notes/2019_Klaus_BTB_Move_Semantics.md)
 
 ## Sample code snippets
 
