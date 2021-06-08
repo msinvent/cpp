@@ -24,10 +24,11 @@ Keep them in sorted order by time of publication and then Name of the author.
 2. [Least Recently Used(LRU) Cache Implementation](./code_samples/lru_cache_implementation.md)
 3. [Deep Copy a Graph](code_samples/deep_copy_graph.md)
 4. [Is a graph bipartite](code_samples/is_graph_bipartite.md)
-5. [The 0/1 KnapSack](somelink)
-6. [KMP Pattern Matching Substring search](somelink)
-7. [Container With Most Water](somelink)
-8. [Trapping Rain Water](somelink)
+5. [Is graph a valid tree](code_samples/graph_valid_tree.md)
+6. [The 0/1 KnapSack](somelink)
+7. [KMP Pattern Matching Substring search](somelink)
+8. [Container With Most Water](somelink)
+9. [Trapping Rain Water](somelink)
 
 ## Some STL algorithms
 
