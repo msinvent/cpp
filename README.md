@@ -10,6 +10,12 @@ Keep them in sorted order by time of publication and then Name of the author.
 
 [CppCon 2016: Timur Doumler "Want fast C++? Know your hardware!"](./video_notes/2016_Timur_Doumler_Want_fast_C++?.md)
 
+[CppCon 2017: Klaus "Free your functions"](./video_notes/2017_klaus_Free_your_functions.md)
+
+[CppCon 2017: Titus Winters “C++ as a "Live at Head" Language”](./video_notes/2017_titus_live_at_head.md)
+
+[Code::dive 2018: Andreas Weis “An introduction to custom allocators in C++"](./video_notes/2018_Andreas_Taming_dynamic_memory.md)
+
 [CppCon 2019: Michael Price “A Critical Look at the Coding Standards Landscape”](./video_notes/2019_MP_A_Critical_Look_Coding_Standards.md)
 
 [CppCon 2019: Mathieu Ropert "This Videogame Programmer Used the STL and You Will Never Guess What Happened Next"](./video_notes/2019_Mathieu_Ropert_This_Videogame_Programmer_Used_the_STL.md)
